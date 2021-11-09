@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yunga-Wu
-- 👀 I’m interested in everything funny
+- 👀 I’m interested in robot's control system designing
 - 🌱 I’m currently learning: ROS, Linux & Matlab
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
