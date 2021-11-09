@@ -2,7 +2,6 @@
 - 👀 I’m interested in everything funny
 - 🌱 I’m currently learning : ROS,Linux & Matlab
 - 💞️ I’m looking for collaborator on : Underwater Robot Designing
-- 📫 How to reach me : wuyunga@sia.cn  
 
 ![](https://img.shields.io/badge/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7-VS%20Code-blue)  
 
