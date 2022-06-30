@@ -3,8 +3,15 @@
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
-![](https://img.shields.io/badge/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7-VS%20Code-blue)
 ![](https://img.shields.io/badge/-STM32-yellow)
+![](https://img.shields.io/badge/-VS%20Code-blue)
+![](https://img.shields.io/badge/-C%2B%2B-red)
+![](https://img.shields.io/badge/-Python-blue)
+![](https://img.shields.io/badge/-Linux-brightgreen)
+![](https://img.shields.io/badge/-ROS-yellowgreen)
+![](https://img.shields.io/badge/-Matlab-orange)
+![](https://img.shields.io/badge/-Pytorch-green)
+
 
 - [git入门](https://backlog.com/git-tutorial/cn/)
 - [cyc2018](http://www.cyc2018.xyz/)
