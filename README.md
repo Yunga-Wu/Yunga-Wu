@@ -49,7 +49,6 @@
 </div>
 
 <!-- Dynamic Quotes -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api??myquote=早点回家?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!-- <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div> -->
 
 
