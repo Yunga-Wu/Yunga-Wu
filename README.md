@@ -1,14 +1,11 @@
-<!-- Gif -->
-![image](https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif)
-
 # 🙋 Hello
 - 👋 Hi, I’m @Yunga-Wu
 - 👀 I’m interested in robot's control system designing
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<!-- Gif -->
+![image](https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif)
 
 ### 👣 正在学习  
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
@@ -31,14 +28,18 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=Pycharm&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=FFFFFF)
 ![Matlab](https://img.shields.io/badge/-Matlab-blue) 
+![matlab](https://media.giphy.com/media/WVvzKMWHs6oEoSr2O2/giphy.gif)
 
 <!-- Gif -->
 <div align="left">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="matlab" src="https://media.giphy.com/media/WVvzKMWHs6oEoSr2O2/giphy.gif" width="100" title="matlab">
 </div>
+
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 <div align="center">
 	<!-- github状态 -->
