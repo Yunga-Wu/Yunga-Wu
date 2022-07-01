@@ -4,20 +4,23 @@
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
-👣 正在学习  
+### 👣 正在学习  
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
-![Python](https://img.shields.io/badge/-Python-F09820?style=flat&logo=Python&logoColor=3776AB) <!-- Python -->
-![C++](https://img.shields.io/badge/-C++-239DFF?style=flat&logo=c++&logoColor=FFFFFF) <!-- C++ -->
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=FFFFFF) <!-- linux -->
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=FFFFFF) <!-- ROS -->
-![STM32](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F-STM32-brightgreen) <!-- 嵌入式STM32 -->
-![控制系统](https://img.shields.io/badge/%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-yellowgreen) <!-- 机器人控制系统 -->
-![深度学习](https://img.shields.io/badge/-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-orange) <!-- 深度学习 -->
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=FFFFFF)
-![自动驾驶](https://img.shields.io/badge/-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-blue) <!-- 自动驾驶 -->
+![Python](https://img.shields.io/badge/-Python-F09820?style=flat&logo=Python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/-C++-239DFF?style=flat&logo=c++&logoColor=FFFFFF)  
 
-🎠 常用工具  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF)
+![控制系统](https://img.shields.io/badge/%E6%9C%BA%E5%99%A8%E4%BA%BA-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-yellowgreen)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=FFFFFF)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=FFFFFF)
+![STM32](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F-STM32-brightgreen)  
+
+![深度学习](https://img.shields.io/badge/-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-orange)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=FFFFFF)  
+
+![自动驾驶](https://img.shields.io/badge/-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-blue) <!-- 自动驾驶 -->  
+
+### 🎠 常用工具  
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFFFFF)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=Pycharm&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=FFFFFF)
