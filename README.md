@@ -5,6 +5,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Yunga-Wu&show_icons=true&theme=white&count_private=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunga-Wu&theme=white&layout=compact)
+
 ![](https://img.shields.io/badge/-C%2B%2B-red) <!-- C++ -->
 ![](https://img.shields.io/badge/-VS%20Code-blue) <!-- VS Code -->
 ![](https://img.shields.io/badge/-Xcode-green) <!-- Xcode -->  
