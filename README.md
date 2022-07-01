@@ -8,7 +8,7 @@
 <div align="center" ><img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif"/></div>
 <br>
 
-### 👣 正在学习  
+### 👣 Learning Recently  
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
 ![Python](https://img.shields.io/badge/-Python-F09820?style=flat&logo=Python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/-C++-239DFF?style=flat&logo=c++&logoColor=FFFFFF)  
@@ -23,8 +23,7 @@
 
 ![自动驾驶](https://img.shields.io/badge/-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-blue) <!-- 自动驾驶 -->  
 
-### 🎠 常用工具  
-
+### 🎠 Tools  
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFFFFF)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=Pycharm&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=FFFFFF)
@@ -39,7 +38,8 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/snake.svg" /></div>
+
 
 <div align="center">
 	<!-- github状态 -->
