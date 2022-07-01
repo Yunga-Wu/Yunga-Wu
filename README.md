@@ -13,9 +13,9 @@
 </div>
 
 👣正在学习
-<!-- https://img.shields.io/badge/左字段-右字段-背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
+<!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
 ![](https://img.shields.io/badge/-Python-F09820?style=flat&logo=Python&logoColor=3776AB)
-![](https://img.shields.io/badge/-C++-white?style=flat&logo=C++&logoColor=00599C)
+![](https://img.shields.io/badge/-C++-217346?style=flat&logo=C++&logoColor=00599C)
 
 ![](https://img.shields.io/badge/-C%2B%2B-red) <!-- C++ -->
 ![](https://img.shields.io/badge/-VS%20Code-blue) <!-- VS Code -->
