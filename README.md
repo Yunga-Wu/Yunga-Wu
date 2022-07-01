@@ -1,8 +1,12 @@
+
 # 🙋 Hello
 - 👋 Hi, I’m @Yunga-Wu
 - 👀 I’m interested in robot's control system designing
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ### 👣 正在学习  
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
@@ -26,6 +30,20 @@
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=FFFFFF)
 ![Matlab](https://img.shields.io/badge/-Matlab-blue) 
 
+<!-- Gif -->
+<div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
+
+<!-- profile-3d-contrib -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 <div align="center">
 	<!-- github状态 -->
@@ -36,7 +54,8 @@
 </div>
 
 <!-- 用到的工具 -->
-<!-- 图表生成 https://shields.io/ -->
-<!-- 图表生成 https://simpleicons.org/ -->
+<!-- 标签生成 https://shields.io/ -->
+<!-- 标签生成 https://simpleicons.org/ -->
+<!-- 卡片 https://metrics.lecoq.io/ -->
 <!-- 表情 https://blog.csdn.net/diandianxiyu_geek/article/details/117281035?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165664565016780366587967%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165664565016780366587967&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-117281035-null-null.142^v29^pc_rank_34,185^v2^control&utm_term=github%E7%BE%8E%E5%8C%96&spm=1018.2226.3001.4187 -->
 <!-- 参考 https://blog.csdn.net/weixin_50915462/article/details/119988939?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165664565016780366587967%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165664565016780366587967&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-3-119988939-null-null.142^v29^pc_rank_34,185^v2^control&utm_term=github%E7%BE%8E%E5%8C%96&spm=1018.2226.3001.4187 -->
