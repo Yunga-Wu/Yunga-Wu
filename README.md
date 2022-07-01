@@ -5,8 +5,12 @@
 
 👣正在学习
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
-![](https://img.shields.io/badge/-Python-F09820?style=flat&logo=Python&logoColor=3776AB)
-![](https://img.shields.io/badge/-C++-217346?style=flat&logo=C&logoColor=00599C)
+![](https://img.shields.io/badge/-Python-F09820?style=flat&logo=Python&logoColor=3776AB) <!-- Python -->
+![](https://img.shields.io/badge/-C++-239DFF?style=flat&logo=C&logoColor=00599C) <!-- C++ -->
+![](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=FFFFFF) <!-- linux -->
+![](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ROS&logoColor=FFFFFF) <!-- ROS -->
+![](https://img.shields.io/badge/%E5%B5%8C%E5%85%A5%E5%BC%8F-STM32-brightgreen) <!-- 嵌入式STM32 -->  
+![](https://img.shields.io/badge/-C++-239DFF?style=flat&logo=C&logoColor=FFFFFF) <!-- C++ -->
 
 
 🎠常用工具
