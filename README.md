@@ -28,7 +28,6 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=Pycharm&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=FFFFFF)
 ![Matlab](https://img.shields.io/badge/-Matlab-blue) 
-![matlab](https://raw.githubusercontent.com/Yunga-Wu/Yunga-Wu/main/images/matlab.webp)
 
 <!-- Gif -->
 <div align="left">
