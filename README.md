@@ -1,11 +1,12 @@
-# 🙋 Hello
-- 👋 Hi, I’m @Yunga-Wu
+## 👨‍🎤 Hello
+- 👋 I’m @Yunga-Wu
 - 👀 I’m interested in robot's control system designing
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
 <!-- Gif -->
-![image](https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif)
+<div align="center" ><img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif"/></div>
+<br>
 
 ### 👣 正在学习  
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
@@ -45,13 +46,5 @@
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yunga-Wu&hide_title=False&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 	<!-- most used language -->
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunga-Wu&hide_title=False&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
 </div>
 
-<!-- 用到的工具 -->
-<!-- 标签生成 https://shields.io/ -->
-<!-- 标签生成 https://simpleicons.org/ -->
-<!-- 卡片 https://metrics.lecoq.io/ -->
-<!-- GIF图片 https://giphy.com/ -->
-<!-- 表情 https://blog.csdn.net/diandianxiyu_geek/article/details/117281035?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165664565016780366587967%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165664565016780366587967&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-117281035-null-null.142^v29^pc_rank_34,185^v2^control&utm_term=github%E7%BE%8E%E5%8C%96&spm=1018.2226.3001.4187 -->
-<!-- 参考 https://blog.csdn.net/weixin_50915462/article/details/119988939?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165664565016780366587967%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165664565016780366587967&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-3-119988939-null-null.142^v29^pc_rank_34,185^v2^control&utm_term=github%E7%BE%8E%E5%8C%96&spm=1018.2226.3001.4187 -->
