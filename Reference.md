@@ -1,0 +1,20 @@
+- ![猴子都能懂的git入门](https://backlog.com/git-tutorial/cn/)
+   - 学习git的使用
+- ![cyc2018](http://www.cyc2018.xyz/)
+   - 用于学习编程和计算机知识
+- ![ardupilot](https://ardupilot.org/dev/docs/companion-computer-nvidia-tx1.html)
+   - Ardupilot飞控官网、源代码
+- ![ArduSub Wiki](http://www.ardusub.com/)
+   - Ardusub是专用于水下机器人的飞控，只有命令行界面
+- ![Blueos Forum](https://discuss.bluerobotics.com/t/blueos-official-release/12024)
+   - Blueos是专用于水下机器人的飞控，只有命令行界面
+- ![QGroundControl Wiki](https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html)
+   - 地面站
+- ![中国大学MOOC---《机器人操作系统入门》课程讲义](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/)
+- ![BlueROV ROSWiki](http://wiki.ros.org/Robots/BlueROV)
+- ![幻宇Robot Forum](http://huanyu-robot.uicp.hk/)
+- ![ROV Maker](https://rovmaker.org/)
+   - 一家水下机器人公司
+- ![SeaRobotix官网](https://searobotix.com/)
+   - 一家水下机器人公司
+- ![colaboratory](https://www.baidu.com/baidu?tn=monline_4_dg&ie=utf-8&wd=colaboratory) 
