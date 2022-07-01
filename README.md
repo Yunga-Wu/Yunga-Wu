@@ -26,7 +26,7 @@
 ![自动驾驶](https://img.shields.io/badge/-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-blue) <!-- 自动驾驶 -->  
 
 ### 🎠 常用工具  
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
+
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFFFFF)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=Pycharm&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=FFFFFF)
@@ -37,7 +37,7 @@
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="matlab" src="https://media.giphy.com/media/WVvzKMWHs6oEoSr2O2/giphy.gif" width="100" title="matlab">
 </div>
 
 <div align="center">
