@@ -1,7 +1,5 @@
 <!-- Gif -->
-<div align="left">
-  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif" width="100">
-</div>
+![image](https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif)
 
 # 🙋 Hello
 - 👋 Hi, I’m @Yunga-Wu
