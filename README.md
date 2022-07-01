@@ -27,13 +27,12 @@
 ![](https://img.shields.io/badge/-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-blue) <!-- 自动驾驶 -->
 ![](https://img.shields.io/badge/-Matlab-blue) <!-- 仿真Matlab -->  
 
-<!-- most used language -->
-<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunga-Wu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yunga-Wu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
 
-<!-- github状态 -->
 <div align="center">
-	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yunga-Wu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+	<!-- github状态 -->
+	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yunga-Wu&hide_title=False&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+	
+	<!-- most used language -->
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunga-Wu&hide_title=False&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
 </div>
