@@ -3,8 +3,15 @@
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Yunga-Wu&show_icons=true&theme=white&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunga-Wu&theme=white&layout=compact)
+<div align="center">
+	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Yunga-Wu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</div>
+
+<div align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunga-Wu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+
 
 ![](https://img.shields.io/badge/-C%2B%2B-red) <!-- C++ -->
 ![](https://img.shields.io/badge/-VS%20Code-blue) <!-- VS Code -->
@@ -23,9 +30,6 @@
 ![](https://img.shields.io/badge/-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6-blue) <!-- 自动驾驶 -->
 ![](https://img.shields.io/badge/-Matlab-blue) <!-- 仿真Matlab -->  
 
-
-
-<!---
-Yunga-Wu/Yunga-Wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+   <img src="https://metrics.lecoq.io/Yunga-Wu?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
+</div>
