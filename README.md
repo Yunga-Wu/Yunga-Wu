@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Yunga-Wu&show_icons=true&theme=white&count_private=true)
+
 ![](https://img.shields.io/badge/-C%2B%2B-red) <!-- C++ -->
 ![](https://img.shields.io/badge/-VS%20Code-blue) <!-- VS Code -->
 ![](https://img.shields.io/badge/-Xcode-green) <!-- Xcode -->  
