@@ -51,7 +51,5 @@
 
 <!-- 动态打字效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&color=4CDFF7&background=000000&center=true&vCenter=true&width=800&lines=Do+not+repeat+yourself">
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&color=4CDFF7&background=000000&center=true&vCenter=true&width=750&lines=Do+not+repeat+yourself">
 </div>
-
-
