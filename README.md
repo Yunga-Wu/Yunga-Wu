@@ -1,3 +1,10 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Do%20not%20repeat%20yourself&center=true&size=27">
+  </a>
+</h1>
+
 ## 👨‍🎤 Hello
 - 👋 I’m @Yunga-Wu
 - 👀 I’m interested in robot's control system designing
