@@ -1,10 +1,3 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Do%20not%20repeat%20yourself&center=true&size=27">
-  </a>
-</h1>
-
 ## 👨‍🎤 Hello
 - 👋 I’m @Yunga-Wu
 - 👀 I’m interested in robot's control system designing
@@ -55,6 +48,13 @@
 	<!-- most used language -->
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunga-Wu&hide_title=False&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
+
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Do%20not%20repeat%20yourself&center=true&size=27&color=black">
+  </a>
+</h1>
 
 <!-- Dynamic Quotes -->
 <!-- <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div> -->
