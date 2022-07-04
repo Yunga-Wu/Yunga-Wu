@@ -5,7 +5,7 @@
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
 <!-- Gif -->
-<div align="right" >
+<div align="center" >
    <img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif" height="300"/>
 </div>
 <br>
