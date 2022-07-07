@@ -4,12 +4,6 @@
 - 🌱 I’m currently learning: Robotics Control System & Machine Learning
 - 💞️ I’m looking for collaborators on : Underwater Robot Designing
 
-<!-- Gif -->
-<div align="center" >
-   <img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif" height="300"/>
-</div>
-<br>
-
 ### 👣 Learning Recently  
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
 ![Python](https://img.shields.io/badge/-Python-F09820?style=flat&logo=Python&logoColor=3776AB)
@@ -55,3 +49,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=27&color=4CDFF7&background=000000&center=true&vCenter=true&width=750&lines=Do+not+repeat+yourself">
 </div>
+
+<!-- Gif -->
+<div align="center" >
+   <img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif" height="300"/>
+</div>
+<br>
