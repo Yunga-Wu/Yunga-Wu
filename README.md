@@ -41,7 +41,7 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/snake.svg" /></div>
+<!-- <div align="center"><img src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/snake.svg" /></div> -->
 
 
 <div align="center">
