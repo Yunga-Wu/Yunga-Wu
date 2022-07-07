@@ -1,8 +1,5 @@
 <!-- Gif -->
-<div align="center" >
-   <img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif" height="300"/>
-</div>
-<br>
+<!-- <div align="center" ><img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif" height="300"/></div><br> -->
 
 ## 👨‍🎤 Hello
 - 👋 I’m @Yunga-Wu
