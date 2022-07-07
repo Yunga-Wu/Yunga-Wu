@@ -1,3 +1,9 @@
+<!-- Gif -->
+<div align="center" >
+   <img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif" height="400"/>
+</div>
+<br>
+
 ## 👨‍🎤 Hello
 - 👋 I’m @Yunga-Wu
 - 👀 I’m interested in robot's control system designing
@@ -50,8 +56,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=27&color=4CDFF7&background=000000&center=true&vCenter=true&width=750&lines=Do+not+repeat+yourself">
 </div>
 
-<!-- Gif -->
-<div align="center" >
-   <img order-radius="100px" src="https://github.com/Yunga-Wu/Yunga-Wu/blob/main/images/coder.gif" height="300"/>
-</div>
-<br>
+
