@@ -3,9 +3,9 @@
 
 ## 👨‍🎤 Hello
 - 👋 I’m @Yunga-Wu
-- 👀 I’m interested in robot's control system designing
-- 🌱 I’m currently learning: Robotics Control System & Machine Learning
-- 💞️ I’m looking for collaborators on : Underwater Robot Designing
+- 👀 从事于自动驾驶行业，决策规划方向
+- 🌱 正在学习自动驾驶框架相关
+- 💞️ 希望持续提升自己的技术能力
 
 ### 👣 Learning Recently  
 <!-- https://img.shields.io/badge/左字段-右字段-十六进制背景颜色?style=样式&logo=添加logo&logoColor=logo颜色 -->
